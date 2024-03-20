@@ -19,7 +19,7 @@ Please be cautious when considering purchases from other sources, as they may be
 
 Eager for a slice of #District5? Follow these simple steps:
 
-1. **Follow Bitpup on Twitter**: [@bitpup35680](https://twitter.com/bitpup35680)
+1. **Follow Bitpup on Twitter**: [@bitpup555555](https://twitter.com/bitpup555555)
 2. **Retweet the promotional tweets**.
 3. **Reply with your BTC address** to the promotional tweets.
 
