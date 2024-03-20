@@ -31,4 +31,4 @@ Grab this chance to join #Bitmap's #District5 (#555555) and let’s see what we 
 
 You can find your parcel in the district using [Mscribe](https://mscribe.io/block/555555). You can see all features related to your parcel, just make sure that the parcel you are planning to purchase is violet color (tapped).
 
-![Parcel Image](img/inscribe.png)
+![Parcel Image](img/mscribe.png)
