@@ -26,3 +26,9 @@ Eager for a slice of #District5? Follow these simple steps:
 Your participation could lead to you owning a virtual parcel in #District5. Keep an eye on the Twitter feed for announcements and opportunities.
 
 Grab this chance to join #Bitmap's #District5 (#555555) and let’s see what we can make of it together!
+
+## How does my parcel look like
+
+You can find your parcel in the district using [Mscribe](https://mscribe.io/block/555555). You can see all features related to your parcel, just make sure that the parcel you are planning to purchase is violet color (tapped).
+
+![Parcel Image](img/inscribe.png)
