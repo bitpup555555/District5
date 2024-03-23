@@ -1,4 +1,4 @@
-# Bitmap District #555555
+![Parcel Image](img/header.png)
 
 Welcome to the official repository for the #Bitmap #District5 community. No tall tales or grand promises here—just a cool district name and the real shot at being part of something new. Together, we’re stepping into the world of Bitmap to see what’s in store.
 
