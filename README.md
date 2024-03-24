@@ -20,12 +20,16 @@ Please be cautious when considering purchases from other sources, as they may be
 Eager for a slice of #District5? Follow these simple steps:
 
 1. **Follow Bitpup on Twitter**: [@bitpup555555](https://twitter.com/bitpup555555)
-2. **Retweet the promotional tweets**.
+2. **Retweet the promotional tweets** to spread the word.
 3. **Reply with your BTC address** to the promotional tweets.
+4. **Ensure you have a BTC wallet** to be eligible for a parcel.
+5. **Ownership of at least one Bitmap** is required to demonstrate your appreciation for the project.
 
-Your participation could lead to you owning a virtual parcel in #District5. Keep an eye on the Twitter feed for announcements and opportunities.
+Your participation could lead you to owning a virtual parcel in #District5. Keep an eye on the Twitter feed for announcements and opportunities.
 
-Grab this chance to join #Bitmap's #District5 (#555555) and let’s see what we can make of it together!
+Grab this opportunity to join #Bitmap's #District5 (555555.bitmap) and let’s discover what we can create together!
+
+
 
 ## Explanation for Claiming the Name #District5
 
