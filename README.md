@@ -1,11 +1,11 @@
 ![Parcel Image](img/header.png)
 
-Welcome to the official #Bitmap #District5 repository. Our primary offering is a distinctively named parcel, valued higher than any ordinary district. While the future holds many possibilities, a well-named parcel stands as a testament to potential and prestige. 
+Welcome to the official #Bitmap #District5 on #BTC Orange Pages — The Million Dollar Homepage for #Inscriptions OGs, Gallery Owners, Traders, Influencers, and #Bitmap Enthusiasts. Our primary offering is a distinctively named parcel, valued higher than any ordinary district. While the future holds many possibilities, a well-named parcel stands as a testament to potential and prestige.
 
 
 ## Where to Purchase
 
-All our parcels are inscribed and tapped before they put on sale on Magic Eden. You can use the following link to make a purchase:
+At the start, a select few of our parcels may be temporarily available for purchase. Each is inscribed and verified before being listed for sale on Magic Eden. Availability may change in the future, so if you’re lucky, you can use the following link to make a purchase:
 
 - [Magic Eden Marketplace](https://magiceden.io/ordinals/wallet?walletAddress=bc1q92gfgnatumqn0ly5dsd3ufzehxk7s486d5fx5m)
 
@@ -17,13 +17,12 @@ Please be cautious when considering purchases from other sources, as they may be
 
 ## How to Score a Free Parcel
 
-Eager for a slice of #District5? Follow these simple steps:
+Eager for a slice of #District5? Parcels may be available for sale or dropped to Bitmap Enthusiasts. The opportunities vary, and staying engaged is key:
 
-1. **Follow Bitpup on Twitter**: [@bitpup555555](https://twitter.com/bitpup555555)
-2. **Retweet the promotional tweets** to spread the word.
-3. **Reply with your BTC address** to the promotional tweets.
-4. **Ensure you have a BTC wallet** to be eligible for a parcel.
-5. **Ownership of at least one Bitmap** is required to demonstrate your appreciation for the project.
+- **Follow Bitpup on Twitter**: [@bitpup555555](https://twitter.com/bitpup555555)
+- **Retweet the promotional tweets** to spread the word.
+- **Engage with our community** by replying to tweets and showing your interest.
+- **Ownership of at least one Bitmap** in your wallet is required to demonstrate your appreciation for the project.
 
 Your participation could lead you to owning a virtual parcel in #District5. Keep an eye on the Twitter feed for announcements and opportunities.
 
@@ -31,9 +30,9 @@ Grab this opportunity to join #Bitmap's #District5 (555555.bitmap) and let’s d
 
 
 
-## Explanation for Claiming the Name #District5
+## Explanation for Naming #District5
 
-The name "District5" was claimed because it is associated with "555555.bitmap," which uniquely allows for the management of multiple parcels, specifically 2,356 parcels. This distinction is crucial as the numerical progression from "5.bitmap" to "555555.bitmap" represents a scaling in capability and scope, with only "555555.bitmap" reaching the threshold where it can be considered a district due to its capacity to encompass a substantial number of parcels. The identifiers preceding "555555.bitmap" are limited to a single parcel each and, therefore, do not qualify as districts.
+The name 'District5' was chosen for 555555.bitmap because it encompasses a large number of parcels—specifically, 2,356. This sets it apart from earlier single-digit 5 bitmaps such as 5.bitmap or 55.bitmap, which manage only one parcel and therefore cannot be classified as a district.
 
 | Bitmap ID     | Parcels       | Qualification          |
 |---------------|---------------|------------------------|
