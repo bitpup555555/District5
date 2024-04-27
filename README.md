@@ -37,18 +37,18 @@ Not all information needs to be persistent on the blockchain. Depending on the n
 The visual presentation of bitmaps is crucial. I find the bitmap visualizations on some platforms like Magic Eden to be messy. In my presentations, I use [mscribe.io](https://mscribe.io/block/555555) for a cleaner look. In the Orange Pages, it should be up to the bitmap owner to decide how their bitmap is displayed. I appreciate platforms like bitfeed [bitfeed.live](https://bitfeed.live/block/height/555555), which offer choices in presentation based on value or vbytes. We could expand this flexibility by allowing bitmap owners to choose from a variety of parcel sizes or even standardize all blocks to be of equal size if the owner decides. A simple json child inscription to a bitmap could facilitate this customization, ensuring that each bitmap can be tailored to meet the specific aesthetic or functional needs of the owner.
 
 
-## Future Platform Development
+### Integration with SNS
+
+Looking toward future growth, integrating a name service to replace numerical identifiers with more user-friendly names like btc/sats/unisat can significantly enhance user accessibility. While this modernization offers substantial benefits, it's crucial to implement such changes cautiously to avoid disadvantaging early adopters, who are foundational to a project's success. Careful planning and phased integration are essential to ensure that innovations enhance the platform without undermining the contributions of those who supported bitmaps from the beginning.
+
+
+### Platform Development
 
 The envisioned platform does not yet exist, but there is no inherent reason why it couldn't be realized. The project is not overly complex, and if I succeed with my District5 vision, I will seek partners with the necessary experience to develop it. 
 
 ![Parcel Image](img/vision.gif)
 
 On the presentation side, I have used avatars of a few famous influencers for visualization purposes only; there are no official partnerships at the time of writing this document. If using these images has offended anyone, please let me know, and I will remove them immediately.
-
-
-### Integration with SNS
-
-Looking toward future growth, integrating a name service to replace numerical identifiers with more user-friendly names like btc/sats/unisat can significantly enhance user accessibility. While this modernization offers substantial benefits, it's crucial to implement such changes cautiously to avoid disadvantaging early adopters, who are foundational to a project's success. Careful planning and phased integration are essential to ensure that innovations enhance the platform without undermining the contributions of those who supported bitmaps from the beginning.
 
 
 ## District5 - Vision
@@ -63,7 +63,7 @@ District5 serves as a practical demonstration within the Orange Pages, illustrat
 The choice of bitmap 555555 is strategic; its memorable number makes it an ideal example for this initiative. Should bitmaps become mainstream, I believe that practical features such as the parcel count and ease of memorization will be more valued than the rarity or artistic nature of the bitmaps.
 
 
-## Explanation for Naming District5
+### Explanation for Naming District5
 
 The name 'District5' was chosen for bitmap 555555 due to its substantial number of parcels, totaling 2,356. This significant parcel count distinctly sets it apart from earlier bitmaps with the digit '5' that contain only one parcel each. Unlike these smaller bitmaps, 555555's large number of parcels qualifies it as a true district within the digital landscape. The following table illustrates how District5 compares to other similar bitmaps:
 
@@ -77,7 +77,7 @@ The name 'District5' was chosen for bitmap 555555 due to its substantial number 
 | 555555.bitmap | 2,356 parcels | District5 (qualifies)  |
 
 
-## Distribution Strategy
+### Distribution Strategy
 
 In District5, the aim is not to distribute parcels widely or freely but to offer a clear vision and meaningful opportunities for involvement. This initiative isn't about pushing JPEGs or meme coins; instead, it focuses on engaging those genuinely interested in the potential and practical uses of bitmaps.
 
@@ -90,7 +90,6 @@ Are you interested in being part of District5? Parcels might be offered to those
 - **Engage with Our Community**: Participate actively by responding to tweets and engaging in discussions.
 - **Demonstrate Your Commitment**: Ownership of at least one Bitmap in your wallet is necessary to show your dedication to the project.
 - **Stay Alert for Announcements**: Opportunities to obtain a free parcel will be announced on Twitter, so keep an eye out.
-
 
 
 ## How to Acquire a District5 Parcel
